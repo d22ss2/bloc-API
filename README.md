@@ -27,9 +27,8 @@ npm install swagger-ui-express swagger-jsdoc
 
 //lancer le serveur
 node server.js
-le serveur demarre sur : http://localhost:3000
-acceder a Swagger : http://localhost:3000/api-docs
-
+le serveur demarre sur : https://bloc-api-xbhi.onrender.com
+acceder a Swagger : https://bloc-api-xbhi.onrender.com/api/docs
  
 
  Endpoints disponibles
