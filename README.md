@@ -1,5 +1,7 @@
 # Blog API - INF222
 
+REDIGE PAR TCHALONG MANFO MEGANE LAURE 24F2865
+
 Ce projet est une API backend simple pour gérer des articles de blog.  
 Développée avec **Node.js**, **Express** et **SQLite** dans le cadre du TAF1 (INF222).
 
